@@ -14,6 +14,6 @@ app_license = "MIT"
 ## insert code below in your hook.py file ##
 doc_events = {
 	"Version": {
- 		"on_update": "notify.api.notify_update"
+ 		"on_update": "notify.main.notify_update"
 	}
 }

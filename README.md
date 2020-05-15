@@ -14,4 +14,4 @@ To ideal usage of this method, firstly we need :
 After the configuration the method runs automatically once someone made a change
  
  ## Functionality
- Each update trigger the function, which verify if the doctype is n the monitored list, once validated, the method keep running to send the e-amil notification
+ Each update trigger the function, which verify if the doctype is n the monitored list, once validated, the method send the e-mail notification
